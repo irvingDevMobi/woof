@@ -31,3 +31,7 @@ Getting Started
 1. Download the project
 2. Open the project in Android Studio
 3. Run the project
+
+<img src="screenshots/woof_light.png" />
+
+<img src="screenshots/woof_dark.png" />
