@@ -32,6 +32,12 @@ Getting Started
 2. Open the project in Android Studio
 3. Run the project
 
-<img src="screenshots/woof_light.png" />
+Unit 3: Displays Lists and Use Material Design. 
+Pathway 3: Build beautiful apps.
 
-<img src="screenshots/woof_dark.png" />
+- 2: Material Theming with Jetpack Compose 
+- <img src="screenshots/woof_light.png" />
+- <img src="screenshots/woof_dark.png" />
+
+- 3: Simple animation with Jetpack Compose
+- <img src="screenshots/woof_animated.gif" />
